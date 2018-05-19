@@ -1,5 +1,23 @@
-*{
-	font-family:arial;}
+
+body{
+	background-color:teal;
+}
 h1{
 	color:purple;
+	font-family:arial;
+}
+img{
+	position:left;
+	box-shadow: 10px 10px 5px grey;
+}
+p{
+	font-family:open-sans;
+	text-shadow: 3px 2px blue;
+}
+footer{
+	background-color:grey;
+	padding:75px;
+}
+.buttons a{
+	margin:0px 20px;
 }
